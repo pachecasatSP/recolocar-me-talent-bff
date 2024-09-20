@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\re.colocar.me.talent.props" />
+</Project>
